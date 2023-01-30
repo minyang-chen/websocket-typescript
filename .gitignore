@@ -1,0 +1,12 @@
+**/target
+**/.build
+*.DS_Store
+Thumbs.db
+**/out
+*.out
+*.class
+*.tgz
+**/.ionide
+node_modules
+./node_modules
+/manifests
